@@ -38,3 +38,5 @@
 <span>Here you can see the project</span>
 
 <img src="esports.png">
+
+<span>Autor: André de Souza</span>
